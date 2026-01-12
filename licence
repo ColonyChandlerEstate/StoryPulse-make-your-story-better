@@ -1,0 +1,14 @@
+# Privacy Policy
+
+StoryPulse is designed to respect your privacy by default.
+
+- The application **never connects to the internet** after installation.
+- No telemetry, analytics, crash reports, or background services are included.
+- All text inputs and generated videos are stored **only on your local machine** in:
+  - Windows: `%USERPROFILE%\Documents\StoryPulse`
+  - macOS: `~/Documents/StoryPulse`
+  - Linux: `~/Documents/StoryPulse`
+
+You can delete all data at any time via the app settings or by removing the folder.
+
+Your stories belong to you — and only you.
